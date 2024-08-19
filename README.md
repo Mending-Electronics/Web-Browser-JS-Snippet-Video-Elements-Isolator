@@ -56,3 +56,35 @@ Feel free to customize the snippet further based on your preferences!
 
  
 
+# Capture
+
+## Web Browser DevTools - Snippet menu
+
+![Web Browser DevTools - Snippet menu](https://raw.githubusercontent.com/Mending-Electronics/Web-Browser-JS-Snippet-New-York-Times-Article-Cleaner/main/captures/Capture.png "This is the Web Browser DevTools - Snippet menu.")
+
+
+
+## Sample
+
+**Before** *(original protected)*
+
+![Sample Before](https://github.com/Mending-Electronics/Web-Browser-JS-Snippet-Video-Elements-Isolator/blob/main/Capture/Capture0.png?raw=true "Sample Before")
+
+![Sample Before](https://github.com/Mending-Electronics/Web-Browser-JS-Snippet-Video-Elements-Isolator/blob/main/Capture/Capture1.png?raw=true "Sample Before")
+
+![Sample Before](https://github.com/Mending-Electronics/Web-Browser-JS-Snippet-Video-Elements-Isolator/blob/main/Capture/Capture2.png?raw=true "Sample Before")
+
+
+**After** *(result unprotected)*
+
+![Sample After](https://github.com/Mending-Electronics/Web-Browser-JS-Snippet-Video-Elements-Isolator/blob/main/Capture/Capture3.png?raw=true "Sample After")
+
+
+![Sample After](https://github.com/Mending-Electronics/Web-Browser-JS-Snippet-Video-Elements-Isolator/blob/main/Capture/Capture4.png?raw=true "Sample After")
+
+
+![Sample After](https://github.com/Mending-Electronics/Web-Browser-JS-Snippet-Video-Elements-Isolator/blob/main/Capture/Capture5.png?raw=true "Sample After")
+
+
+
+
